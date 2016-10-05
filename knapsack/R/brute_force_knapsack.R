@@ -45,5 +45,5 @@ brute_force_knapsack <- function(x, W){
     list <- list("value"=round(sum_value), "elements"= best_items)
     return(list)
 }
-
+   
 hej
